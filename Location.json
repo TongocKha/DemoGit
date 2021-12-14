@@ -1,10 +1,5 @@
-[
-  {
+{
 "Name":"Nguyễn Văn A","Address":"25, Tăng Bạt Hổ, Phường Nhơn Bình","Sex":"Nam",
 "Money":250000000,"Old":30
-},
- {
-"Name":"Nguyễn Văn A","Address":"25, Tăng Bạt Hổ, Phường Nhơn Bình","Sex":"Nam",
-"Money":250000000,"Old":30
-} 
-]
+}
+ 
